@@ -1,4 +1,4 @@
-Father Minority,Father Age,Father Years of Education,Mother Minority,Mother Age,Mother Years of Education,Marital Status,Mother Smoker,Mother Avg Cigs,Mother Weight Gain,Birth Attendant,Mother Previous Children,Plurality of Birth,Month of Birth,Day of Birth,Gender,Number of Prenatal Visits,Kotelchuck Index,Gestational Age,Birth Weight Grams,Low Birth,Apgar Score One Minute,Apgar Score Five Minutes
+Father Minority,Father Age,Father Years of Education,Mother Minority,Mother Age,Mother Years of Education,Marital Status,Mother Smoker,Mother Avg Cigs,Mother Weight Gain,Birth Attendant,Mother Previous Children,Plurality of Birth,Month of Birth,Day of Birth,Gender,Number of Prenatal Visits,Kotelchuck Index for Adequacy of Prenatal Care,Gestational  Age,Birth Weight (Grams),Low Birth,Apgar Score - One Minute,Apgar Score - Five Minutes
 Nonwhite,50,12,White,24,15,Unmarried,N,0,50,Physician,1,Singleton,2,23,Female,10,3_Adequate,38,2866,N,9,9
 White,19,9,White,18,9,Unmarried,Y,23,35,Physician,0,Singleton,1,25,Female,9,3_Adequate,35,3121,N,8,9
 White,37,17,White,35,17,Married,N,0,24,Physician,1,Singleton,1,25,Female,20,4_AdequatePlus,38,2667,N,8,9
